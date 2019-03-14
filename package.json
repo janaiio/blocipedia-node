@@ -1,0 +1,14 @@
+{
+  "name": "blocipedia-node",
+  "version": "1.0.0",
+  "description": "A Wikipedia-like application for users to create, collaborate, and share wikis.",
+  "main": "\u001b[D\u001b[D\u001b[3~\u001b[3(src/server.js)",
+  "scripts": {
+    "test": "export NODE_ENV=test&& jasmine"
+  },
+  "keywords": [
+    "Wiki"
+  ],
+  "author": "Janai Smith",
+  "license": "ISC"
+}
